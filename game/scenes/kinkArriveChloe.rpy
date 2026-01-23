@@ -1,4 +1,4 @@
-label kinkArrive:
+# label kinkArrive:
 
     scene bg bedroom
     show dom at left
