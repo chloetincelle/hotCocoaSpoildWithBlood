@@ -27,7 +27,7 @@ label start:
 
     # scenes menu
     menu:
-        "this is a temporary menu to test de game, you can jump to any chapter and play as intended"
+        "this is a temporary menu to test the game, you can jump to any chapter and play as intended"
 
         "introduction":
             jump sc0
